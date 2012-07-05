@@ -1,0 +1,1 @@
+Scrapy-based spider that crawls the Pennsylvania state Liquor Control Board web site (http://www.lcbapps.lcb.state.pa.us/webapp/product_management/psi_productdefault_inter.asp) and store data into csv-files.
